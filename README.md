@@ -24,6 +24,17 @@ quest giver or the raid entrance on your map. Shift-click a quest or item to lin
 Open it with `/progression`, or from the Journal's tabs (between Raids and Quests). With DragonUI it
 can also have its own micro menu button (see [DragonUI](#dragonui)).
 
+## Screenshots
+
+<img width="1442" height="1005" alt="image" src="https://github.com/user-attachments/assets/b4be045c-99c3-4d87-9d64-338ee64bfec4" />
+<details>
+<summary>View more screenshots</summary>
+<img width="978" height="839" alt="image" src="https://github.com/user-attachments/assets/b819b412-cc08-4ae1-9f38-d46db10d924a" />
+<img width="972" height="836" alt="image" src="https://github.com/user-attachments/assets/20cfbf5f-7d44-4d8f-9452-1d65c7733359" />
+</details>
+
+
+
 ## What each step shows
 
 | Status | Meaning |

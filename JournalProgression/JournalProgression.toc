@@ -1,0 +1,11 @@
+## Interface: 30300
+## Title: Journal: Progression
+## Notes: Adds a Progression tab to the Journal: your mod-individual-progression stage, and in order everything to do there to reach the next one - levels, attunement quest chains with who gives them and where, keys to carry, and each raid's bosses down to the one whose kill moves you on. /progression opens it.
+## Author: EvilTactician
+## Version: 1.0.0
+## Dependencies: Journal
+## OptionalDeps: DragonUI
+## SavedVariablesPerCharacter: JournalProgressionCharDB
+
+Tiers.lua
+Progression.lua

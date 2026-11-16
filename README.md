@@ -7,7 +7,7 @@
 [![Version](https://img.shields.io/badge/Version-1.0.0-green)](https://github.com/EvilTactician/JournalProgression)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 
-**A World of Warcraft 3.3.5a addon that adds a **Progression** tab to the
+**A World of Warcraft 3.3.5a addon that adds a Progression tab to the
 [Journal](https://github.com/EvilTactician/wow-mod-forever-journal) (mod-forever-journal), for realms
 running [mod-individual-progression](https://github.com/Grimfeather/mod-individual-progression).**
 
@@ -89,9 +89,7 @@ The list on the left has every stage, grouped by expansion, so you can look back
 
 ## Requirements
 
-- **[mod-forever-journal](https://github.com/EvilTactician/wow-mod-forever-journal)** (My fork): the Journal addon on your client and the module on the realm. This fork is
-  required: the tab builds on hooks only it has, such as opening a quest in the Quests tab. The tab gets
-  your progression stage, each raid's stage on your realm, and the boss and quest pages it opens from it.
+- **[mod-forever-journal](https://github.com/EvilTactician/wow-mod-forever-journal)** (my fork): the Journal addon on your client and the module on the realm. The tab gets your progression stage, the raids and their bosses, and who gives each quest and where from it.
 - **[mod-individual-progression](https://github.com/Grimfeather/mod-individual-progression)** on the
   realm. Without it, the tab says the realm doesn't track progression.
 - **[DragonUI](https://github.com/EvilTactician/wow-addon-DragonUI)** (optional), this fork, for the

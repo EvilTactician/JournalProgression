@@ -1,4 +1,4 @@
-# Journal: Progression
+# Journal: Progression 1.0.0
 
 <div align="center">
 
